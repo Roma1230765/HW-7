@@ -1,8 +1,8 @@
 header{
-    background-color: black;
+    background-color: #2F303A;
 }
 footer {
-    background-color: black;
+    background-color: #2F303A;
 }
 a[href^="https"] {
     color: red;
@@ -10,3 +10,10 @@ a[href^="https"] {
   ul + p {  
     font-size: 24px;
   }
+  
+  .web-studio {
+    color: blue;
+}
+.do-your-job {
+  color: #2196F3;
+}
